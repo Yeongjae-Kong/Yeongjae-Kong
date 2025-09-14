@@ -32,7 +32,6 @@ Welcome! https://yeongjaekong.tistory.com/
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000000">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF">
 </p>
-</br>
 
 **- Frameworks & Libraries**
 <p>
@@ -41,7 +40,6 @@ Welcome! https://yeongjaekong.tistory.com/
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=000000">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF">
 </p>
-</br>
 
 **- Infra & Database**
 <p>
