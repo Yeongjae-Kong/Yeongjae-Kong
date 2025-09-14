@@ -10,9 +10,9 @@
 ### 💡 Projects
 |프로젝트|소개|바로가기|
 |:-:|:-:|:-:|
-| **✨ ADHD** | Anomaly Detection with Human Data (이상탐지 프로젝트)| [🔗](https://github.com/Yeongjae-Kong/madcamp_week3) |
-| **🏠 everyHome** | 주거단지용 하이퍼로컬 커뮤니티 앱 |  [🔗](https://github.com/Yeongjae-Kong/everyHome) |
 | **💌 Sinabro** | 소중한 친구들과 공유하는 다이어리 앱 | [🔗](https://github.com/Yeongjae-Kong/Sinabro) |
+| **🏠 everyHome** | 주거단지용 하이퍼로컬 커뮤니티 앱 |  [🔗](https://github.com/Yeongjae-Kong/everyHome) |
+| **✨ ADHD** | Anomaly Detection with Human Data (이상탐지 프로젝트)| [🔗](https://github.com/Yeongjae-Kong/madcamp_week3) |
 
 ### 🔎 Experiences & Research
 |경험 (연구)|기간|소개|
