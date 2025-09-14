@@ -15,11 +15,11 @@ Welcome! https://yeongjaekong.tistory.com/
 | **💌 Sinabro** | 소중한 친구들과 공유하는 다이어리 앱 | [🔗](https://pokemon-quiz.seondal.kr) |
 
 ### 🔎 Experiences & Research
-|경험(연구)|기간|소개|
+|경험 (연구)|기간|소개|
 |:-:|:-:|:-:|
-| **📚 SSAFY** | 25.07~ | MCP 등 AI 활용 및 알고리즘, JAVA 학습 |
+| **📚 SSAFY** | 25.07~ | AI, 알고리즘 및 JAVA 학습 |
 | **🤖 KAIST 몰입캠프** | 23.12~24.01 | 앱 개발 / AI 서비스 개발 등 |
-| **🔬 UGRP** | 21.03~21.12 | 3D 복원 기반 모델 제작 및 프레임 보간을 통한 경량화 연구 |
+| **🔬 UGRP** | 21.03~21.12 | 3D 복원 및 프레임 보간 기반 경량화 연구 |
 | **🚀 창업 Ulrim** | 21.04~21.11 | 예술 문화 플랫폼 개발 |
 | **⚙️ Image Processing Lab 연구 인턴** | 21.06~21.07 | 생성 모델 기반의 3D 복원 연구 |
 | **⚙️ Intelligent Digital Systems Lab 연구 인턴** | 20.06~20.07 | TPU를 활용한 객체 탐지 연구 |
