@@ -7,19 +7,22 @@
 - 군대에 복무할 때, 쌓아온 경험과 지식들이 휘발되는 것을 느꼈습니다. 사람은 누구나 망각하기 마련이지만 기록을 통해 배움을 되새김하고, 지식을 나누면서 또다시 성장하고자 블로그를 작성하고 있습니다.
 Welcome! https://yeongjaekong.tistory.com/
 
-### 🌟 Projects
+### 💡 Projects
 |프로젝트|소개|바로가기|
 |:-:|:-:|:-:|
-| **📷 ADHD** | Anomaly Detection with Human Data (이상탐지 프로젝트)| [🔗](https://instoolgram.seondal.kr) |
-| **🐍 everyHome** | 주거단지용 하이퍼로컬 커뮤니티 앱 |  [🔗](https://filter-recipe.seondal.kr) |
-| **🐦 Sinabro** | 소중한 친구들과 공유하는 다이어리 앱 | [🔗](https://pokemon-quiz.seondal.kr) |
+| **✨ ADHD** | Anomaly Detection with Human Data (이상탐지 프로젝트)| [🔗](https://instoolgram.seondal.kr) |
+| **🏠 everyHome** | 주거단지용 하이퍼로컬 커뮤니티 앱 |  [🔗](https://filter-recipe.seondal.kr) |
+| **💌 Sinabro** | 소중한 친구들과 공유하는 다이어리 앱 | [🔗](https://pokemon-quiz.seondal.kr) |
 
-<!-- |프로젝트|소개|바로가기|
+### 🔎 Experiences & Research
+|경험(연구)|기간|소개|
 |:-:|:-:|:-:|
-| **🐍 Auto Blog** | 네이버 블로그 목차 생성기 & 알고리즘 문제풀이 자동서식 | [🔗](https://auto-blog.seondal.kr) |
-| **🎤 Pitch Finder** | 음역대 축정 기반 노래 필터링 서비스, 피치파인더 | [🔗](https://pitch-finder.seondal.kr) |
-| **🐦 Team Info Table** | Team Info Table for Github Readme | [🐈](https://github.com/seondal/TIT) &nbsp; [🔗](https://team-info-table.seondal.kr) |
-| **🪄 PosePicker** | 포즈가 고민될 땐 ? 포즈피커 ! | [🐈](https://github.com/posepicker) &nbsp; [🔗](https://posepicker.seondal.kr) | -->
+| **📚 SSAFY** | 25.07~ | MCP 등 AI 활용 및 알고리즘, JAVA 학습 |
+| **🤖 KAIST 몰입캠프** | 23.12~24.01 | 앱 개발 / AI 서비스 개발 등 |
+| **🔬 UGRP** | 21.03~21.12 | 3D 복원 기반 모델 제작 및 프레임 보간을 통한 경량화 연구 |
+| **🚀 창업 Ulrim** | 21.04~21.11 | 예술 문화 플랫폼 개발 |
+| **⚙️ Image Processing Lab 연구 인턴** | 21.06~21.07 | 생성 모델 기반의 3D 복원 연구 |
+| **⚙️ Intelligent Digital Systems Lab 연구 인턴** | 20.06~20.07 | TPU를 활용한 객체 탐지 연구 |
 
 
 ## 💻 Tech Stack
