@@ -58,7 +58,7 @@
     <img align="right"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kong7300"&height="200">
   </a>
   
-- AWS Certified Cloud Practitioner, Amazon, 25.03
+- AWS Certified Cloud Practitioner, 25.03
 
 - 정보처리기사, 25.06
 
