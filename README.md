@@ -5,9 +5,11 @@
 - 군대에 복무할 때, 쌓아온 경험과 지식들이 휘발되는 것을 느꼈습니다. 사람은 누구나 망각하기 마련이지만 기록을 통해 배움을 되새김하고자 블로그를 작성하고 있습니다.
 <br/> https://yeongjaekong.tistory.com
 
+https://github.com/Yeongjae-Kong/ssafyhome
 ### 💡 Projects
 |프로젝트|소개|바로가기|
 |:-:|:-:|:-:|
+| **💌 구집** | AI/데이터 기반 부동산 동향 분석 서비스 | [🔗](https://github.com/Yeongjae-Kong/Sinabro) |
 | **💌 Sinabro** | 소중한 친구들과 공유하는 다이어리 앱 | [🔗](https://github.com/Yeongjae-Kong/Sinabro) |
 | **🏠 everyHome** | 주거단지용 하이퍼로컬 커뮤니티 앱 |  [🔗](https://github.com/Yeongjae-Kong/everyHome) |
 | **✨ ADHD** | Anomaly Detection with Human Data (이상탐지 프로젝트)| [🔗](https://github.com/Yeongjae-Kong/madcamp_week3) |
